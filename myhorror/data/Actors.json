@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"kinmi-sentou","characterIndex":0,"characterName":"kinmi-hokou","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kinmi","traits":[],"initialLevel":1,"maxLevel":99,"name":"キンミ","nickname":"","note":"","profile":"福岡でフラフラしてるエンジニア。個人開発と酒が好き。"},
+{"id":2,"battlerName":"monaka-sentou","characterIndex":0,"characterName":"monaka-hokou","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"monaka","traits":[],"initialLevel":1,"maxLevel":99,"name":"モナカ","nickname":"","note":"","profile":"悩んだらパンを焼く。いつの間にかパンの腕はプロ並みにな\nっちゃった！"},
+{"id":3,"battlerName":"chome-sentou","characterIndex":0,"characterName":"chome-hokou","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"chome","traits":[],"initialLevel":1,"maxLevel":99,"name":"チョメコ","nickname":"","note":"","profile":"愛妻と愛犬ビスと共にVlogを始める。"},
+{"id":4,"battlerName":"nyuburu-sentou","characterIndex":0,"characterName":"nyuburu-hokou","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"nyuburu","traits":[],"initialLevel":1,"maxLevel":99,"name":"乳振","nickname":"","note":"","profile":"お尻押したいITエンジニア。"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
